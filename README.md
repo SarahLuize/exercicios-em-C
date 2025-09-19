@@ -18,3 +18,4 @@ Os arquivos foram feitos como prática de lógica de programação, estrutura de
 Os arquivos estão listados diretamente no repositório com os nomes originais usados durante o curso.
 
 📌 *Em breve, os nomes serão atualizados para descrever melhor o que cada exercício faz.*
+*E otimizarei alguns códigos.*
