@@ -15,4 +15,4 @@ Os arquivos foram feitos como prática de lógica de programação, estrutura de
 
 ## Organização
 
-📌 *Em breve os nomes serão atualizados para descrever melhor o que cada exercício faz, otimizarei alguns códigos e organizarei em pastas.*
+📌 *Em breve otimizarei alguns códigos e organizarei em pastas.*
